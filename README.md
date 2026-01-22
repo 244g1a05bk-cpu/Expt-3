@@ -44,7 +44,7 @@ public static void main(String[] args) {
 output:
 ![output of 3a](3aoutput.png)
 
-#Expt-3b
+# Expt-3b
 ```java
 import java.util.Arrays;
 
@@ -107,10 +107,10 @@ class BinarySearchDemo {
     }
 }
 ```
-#output:
+# output:
 ![output of 3b](3boutput.png)
 
-#Expt-3c
+# Expt-3c
 ```java
 class BubbleSort {
 
@@ -144,7 +144,7 @@ class BubbleSort {
     }
 }
 ```
-#output:
+# output:
 ![output of 3c](3coutput.png)
 
 
